@@ -18,7 +18,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/neural-style-transfer.git
+git clone 
 cd neural-style-transfer
 Create a virtual environment and activate it:
 

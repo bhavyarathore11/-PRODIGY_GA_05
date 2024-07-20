@@ -1,7 +1,5 @@
 # PRODIGY_GA_05
-The primary goal is to apply the artistic style of one image (such as a famous painting) to the content of another image.
-Description
-This project demonstrates the application of neural style transfer, where the artistic style of one image (e.g., a famous painting) is applied to the content of another image. The technique leverages deep neural networks to blend the content of one image with the style of another, resulting in a new, stylized image.
+This project demonstrates the application of neural style transfer, where the artistic style of one image (e.g., a famous painting) is applied to the content of another image. The technique leverages deep neural networks to blend the content of one image with the style of another, resulting in a new, stylized image
 
 Features
 Content Image Transformation: Maintain the content structure of the original image.
